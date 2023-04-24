@@ -1,4 +1,4 @@
-# Linear_Regression_hw
+# Linear_Regression_hw Stat 512 spring 2023
 HW for linear regression 
 
 #HW_7 focuses on robust regression and lmRidge 
